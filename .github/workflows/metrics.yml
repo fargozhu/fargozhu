@@ -24,7 +24,7 @@ jobs:
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ github.token }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: ${{ secrets.USER }}
           base: achievements
           plugin_achievements: yes
