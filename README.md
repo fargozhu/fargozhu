@@ -1,25 +1,6 @@
-<a href="https://github.com/jessfraz">
-  <img align="center" width="49%" src="./header.svg" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fargozhu&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
 </a>
-<br/>
-<a href="https://github.com/jessfraz">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/jessfraz">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
-
-<a href="https://github.com/jessfraz">
-  <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
-
-<a href="https://github.com/jessfraz">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
-
-<a href="https://github.com/jessfraz">
-  <img align="center" width="49%" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/jessfraz">
-    <img align="center" width="49%" src="./achievements.svg" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?fargozhu=mrdoob&langs_count=3&hide_title=true&hide_border=true" />
 </a>
